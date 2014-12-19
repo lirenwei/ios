@@ -9,7 +9,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://10.2.19.43/sf.ipa</string>
+						<string>http://192.168.0.17:9001/Public/uploads/NewsAndLife.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -17,7 +17,7 @@
 						<key>needs-shine</key>
 						<true />
 						<key>url</key>
-						<string>http://10.2.19.43/Public/Uploads/logo.gif</string>
+						<string>http://192.168.0.17:9001/Public/uploads/logo.gif</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true />
 						<key>url</key>
-						<string>http://10.2.19.43/Public/Uploads/logo.gif</string>
+						<string>http://192.168.0.17:9001/Public/uploads/logo.gif</string>
 					</dict>
 				</array>
 				<key>metadata</key>
