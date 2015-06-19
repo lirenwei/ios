@@ -1,0 +1,47 @@
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://www.ewuzhijia.com/IOS/yiwuzhijiaagent.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true />
+                        <key>url</key>
+                        <string>http://www.ewuzhijia.com/app/agenticon.png</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <true />
+                        <key>url</key>
+                        <string>http://www.ewuzhijia.com/app/agenticon.png</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.enterprise.hdsxnxxxx.ewuhomeAgent</string>
+                    <key>bundle-version</key>
+                    <string>1.1</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>subtitle</key>
+                    <string>易屋之家经纪人</string>
+                    <key>title</key>
+                    <string>易屋之家经纪人</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
